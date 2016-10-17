@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ProjetNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="addNotification">Ajouter une notification</string>
+    <string name="notification_launching_title">Vous avez reÃ§u une nouvelle notification</string>
+    <string name="notification_title">Titre de la notification</string>
+    <string name="notification_desc">Description de la notification</string>
+
+    <string name="save">Favoris</string>
+    <string name="share">Partager</string>
+    <string name="notification_big_content">Ceci est un tres tres tres tres tres grand contenu</string>
+
+
+</resources>
+
